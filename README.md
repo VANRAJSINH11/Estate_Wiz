@@ -7,14 +7,11 @@
 
 ## 🚀 Live Demo
 
-> 🌐 [Click here to view the live site](https://your-site-name.netlify.app)  
+> 🌐 [Click here to view the live site](https://estate-wiz.netlify.app/)  
 
 
 ---
 
-## 📸 Screenshots
-
-![Estate Wiz Screenshot](./screenshot.png)  
 
 ---
 
